@@ -5,7 +5,7 @@
       "bateria": "300 kWh",
       "potencia": "200cv",
       "recarga": "30 min",
-      "urlPhoto": "https://github.com/Dnakalfa/api-cars/blob/main/image/eletric_car.png"
+      "urlPhoto": "https://dnakalfa.github.io/api-cars/image/eletric_car.png"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "bateria": "230 kWh",
       "potencia": "100cv",
       "recarga": "20 min",
-      "urlPhoto": "https://github.com/Dnakalfa/api-cars/blob/main/image/tesla-model-3-red.png"
+      "urlPhoto": "https://dnakalfa.github.io/api-cars/image/tesla-model-3-red.png"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "bateria": "430 kWh",
       "potencia": "400cv",
       "recarga": "60 min",
-      "urlPhoto": "https://github.com/Dnakalfa/api-cars/blob/main/image/tesla-model-x-azul.png"
+      "urlPhoto": "https://dnakalfa.github.io/api-cars/image/tesla-model-x-azul.png"
     },
     {
       "id": 4,
@@ -29,6 +29,6 @@
       "bateria": "130 kWh",
       "potencia": "200cv",
       "recarga": "50 min",
-      "urlPhoto": "https://github.com/Dnakalfa/api-cars/blob/main/image/tesla-modeling-pickup.png"
+      "urlPhoto": "https://dnakalfa.github.io/api-cars/image/tesla-modeling-pickup.png"
     }
   ]
